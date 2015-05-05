@@ -10,6 +10,10 @@ import javax.swing.JComponent;
 
 public class Emerald extends JComponent {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2385739886054597673L;
 	private BufferedImage img;
 	
 	public Emerald() {
